@@ -9,14 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ahmadbey678/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Ahmadbey678/LeetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ahmadbey678/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Ahmadbey678/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Ahmadbey678/LeetCode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ahmadbey678/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Ahmadbey678/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
